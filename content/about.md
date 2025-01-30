@@ -1,6 +1,7 @@
 Acme Corporation TM is the world's leading manufacturer of digital shapes. From squares and circles to triangles and hexagons, we have it all. Browse through our collection of various forms with different thicknesses and line styles.
 
-We shape the world. You live in it.
+We shape the world. You live in it.  
+haha.
 
 We provide smiles to hundreds of happy customers.
 
