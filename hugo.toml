@@ -4,6 +4,11 @@ title = 'Acme Corporation'
 
 theme = "Eclectic"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   [params.author]
     facebook = "https://facebook.com/example"
