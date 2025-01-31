@@ -1,4 +1,4 @@
-Privacy Policy
+Pivacy Policy
 ====
 
 Last updated **August 19, 2019**
@@ -142,3 +142,16 @@ If you have questions or comments about this policy, you may contact our Data Pr
 
 Acme Corporation
 Data Protection Officer
+
+code fences test
+```cpp {linenos=true}
+int main()
+{
+    int a = 1;
+    int b = 2;
+    int c = a + b;
+    printf("%d", c);
+    return 0;
+}
+
+```
