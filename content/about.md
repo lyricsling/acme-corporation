@@ -1,16 +1,18 @@
-Acme Corporation TM is the world's leading manufacturer of digital shapes. From squares and circles to triangles and hexagons, we have it all. Browse through our collection of various forms with different thicknesses and line styles.
+# About Us
+Acme Corporation&trade; is the world's leading manufacturer of digital shapes. From squares and circles to triangles and hexagons, we have it all. Browse through our collection of various forms with different thicknesses and line styles.
 
-We shape the world. You live in it.  
-haha.
+> We shape the world. You live in it.  
 
-We provide smiles to hundreds of happy customers.
+We provide :smiles: to hundreds of happy customers.
 
-Manufacturing
+## Manufacturing
+
+<img style="float:right"; margin: 20px; src="/image/draw.jpg">
 
 At Acme Corporation, we take pride in what we create. Our manufacturing process goes through 3 different stages of fine workmanship to give you the best possible shapes.
 
 
-1) Drawing - Our shapes are drawn with precision to 1/100 of a millimeter.
+1) **Drawing** - Our shapes are drawn with precision to 1/100 of a millimeter.
    * We use advanced vector drawing tools to create our catalog.
    * Quality checking happens hundreds of times for each shape we create.
      * We have high-quality bots that inspect our output.
@@ -24,16 +26,23 @@ Products
 
 We make over 200 shapes. The most popular of these include:
 
-Shape,  Design, Description, Links
-Line , --,  Two pointy ends and a straight stretch of ink, Line on Wikipedia - https://en.wikipedia.org/wiki/Line_(geometry)
-Circle,  -- , A full round with no corners, Circle on Wikipedia - https://en.wikipedia.org/wiki/Circle
-Triangle,  -- , Three lines with three corners,  Triangle on Wikipedia - https://en.wikipedia.org/wiki/Triangle
+Shape | Design | Description | Links
+ ---  | ---    | ---         | ---
+Line  |--      |  Two pointy ends and a straight stretch of ink | [Line on Wikipedia](https://en.wikipedia.org/wiki/Line_(geometry))
+Circle | -- | A full round with no corners | [Circle on Wikipedia](https://en.wikipedia.org/wiki/Circle)
+Triangle |  -- | Three lines with three corners |  [Triangle on Wikipedia](https://en.wikipedia.org/wiki/Triangle)
 
-Team
+## Team
 
 
-Alex - Hippy Web Developer - Technophile
+Alex 
+: Hippy Web Developer 
+: Technophile
 
-Bob - Classic SysAdmin - Conservative
+Bob 
+: Classic SysAdmin 
+: Conservative
 
-Gabby - Cool Content Master - Cautious
+Gabby 
+: Cool Content Master 
+: Cautious
