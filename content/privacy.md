@@ -155,3 +155,21 @@ int main()
 }
 
 ```
+
+## Direct Emojis
+Smile please :smile:
+I :heart: hugo
+Wink :wink:
+Alink to [Emojis](#direct-emojis)
+
+## Smart conversion
+## This is highlighted text{style="background:yellow"}
+
+## Definition lists
+Alex
+: Hippy Web Developer
+: Technophile
+
+Bob
+: Classic SysAdmin
+: Conservative
