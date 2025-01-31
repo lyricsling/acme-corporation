@@ -3,11 +3,11 @@ Acme Corporation&trade; is the world's leading manufacturer of digital shapes. F
 
 > We shape the world. You live in it.  
 
-We provide :smiles: to hundreds of happy customers.
+We provide :smile: to hundreds of happy customers.
 
 ## Manufacturing
 
-<img style="float:right"; margin: 20px; src="/image/draw.jpg">
+<img style="float:right; margin: 20px;" src="/image/draw.jpg">
 
 At Acme Corporation, we take pride in what we create. Our manufacturing process goes through 3 different stages of fine workmanship to give you the best possible shapes.
 
@@ -31,6 +31,8 @@ Shape | Design | Description | Links
 Line  | --      |  Two pointy ends and a straight stretch of ink | [Line on Wikipedia](https://en.wikipedia.org/wiki/Line_(geometry))
 Circle | -- | A full round with no corners | [Circle on Wikipedia](https://en.wikipedia.org/wiki/Circle)
 Triangle |  -- | Three lines with three corners |  [Triangle on Wikipedia](https://en.wikipedia.org/wiki/Triangle)
+Circle  | &#8413; | A full round with no corners | [Circle on Wikipedia]
+Triangle  | &#9651; | Three lines with three corners |  [Triangle on Wikipedia](https://en.wikipedia.org/wiki/Triangle)
 
 ## Team
 
